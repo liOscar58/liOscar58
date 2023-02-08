@@ -1,7 +1,7 @@
- 20y studying Comp Sci @ uOttawa 
+2nd year studying Comp Sci @ uOttawa 
 
-Interested in Software jobs in Ottawa / GTA 
+Interested in Summer 2023 interships in Ottawa / GTA 
 
-Java, HTML, CSS, ThreeJS and Python
+Java, Python, HTML, CSS, Javascript, and Microsoft Office
  
  https://qebby.carrd.co
