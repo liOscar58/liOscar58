@@ -4,7 +4,7 @@
 
 
 I'm a third year student at University of Ottawa studying Computer Science. 
-Current club executive at uOttawa Esports.
+Current club executive at uOttawa Esports and uOttawa Board Games.
 
 
 ## 🔗 Links
