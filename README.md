@@ -9,7 +9,12 @@ front-end development and cloud computing.
 
 
 ## Skills
-HTML, CSS, Python, Java, Javascript, AWS, Docker PHP
+HTML, CSS, Python, Java, Javascript, AWS, Docker, PHP, SQL, Linux
+
+## Learning
+
+C, C++, GoLang, Typescript, Angular, Bootstrap
+
 
 
 ## 🔗 Links
