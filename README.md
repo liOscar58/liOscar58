@@ -8,13 +8,25 @@ Current club executive at uOttawa Esports and uOttawa Board Games. Intersts are
 front-end development and cloud computing.
 
 
-## Skills
-HTML, CSS, Python, Java, Javascript, AWS, Docker, PHP, SQL, Linux
+## 🛠 Skills
 
-## Learning
+#### Languages
 
-C, C++, GoLang, Typescript, Angular, Bootstrap
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,java,cpp,php,mysql)](https://skillicons.dev)
 
+#### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,flask)](https://skillicons.dev)
+
+#### Technologies
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel,firebase,docker,gradle,git,github,ps,figma,vscode)](https://skillicons.dev)
+
+#### Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=golang,angular,kotlin,linux,)](https://skillicons.dev)
+
+#### I Develop In
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
 ## 🔗 Links
