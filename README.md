@@ -12,13 +12,13 @@ front-end development and cloud computing.
 
 #### Experince With
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,java,cpp,php,mysql,angular,react,bootstrap,tailwind,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,php,mysql,angular,react,bootstrap,tailwind)](https://skillicons.dev)
 
 #### Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,vercel,firebase,docker,gradle,git,github,ps,figma,vscode)](https://skillicons.dev)
 
 #### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=golang,angular,kotlin,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,golang,angular,kotlin,flask,linux,)](https://skillicons.dev)
 
 #### I Develop In
 
