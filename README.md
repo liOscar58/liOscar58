@@ -10,12 +10,9 @@ front-end development and cloud computing.
 
 ## 🛠 Skills
 
-#### Languages
+#### Experince With
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,java,cpp,php,mysql)](https://skillicons.dev)
-
-#### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,java,cpp,php,mysql,angular,react,bootstrap,tailwind,flask)](https://skillicons.dev)
 
 #### Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,vercel,firebase,docker,gradle,git,github,ps,figma,vscode)](https://skillicons.dev)
