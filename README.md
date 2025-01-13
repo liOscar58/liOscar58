@@ -4,18 +4,18 @@
 
 
 I'm a third year student at University of Ottawa studying Computer Science. 
-Current club executive at uOttawa Esports and uOttawa Board Games. Intersts are 
-front-end development and cloud computing.
+Current club executive at uOttawa Esports and uOttawa Board Games. Interests are 
+front-end development and cloud computing along with COBOL and JCL.
 
 
 ## 🛠 Skills
 
 #### Experince With
 
-[![My Languages](https://skillicons.dev/icons?i=,cobol,jcl,html,css,py,js,php,mysql,angular,react,bootstrap,tailwind)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,py,js,php,angular,react,bootstrap,tailwind)](https://skillicons.dev)
 
 #### Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,vercel,docker,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,mysql,aws,vercel,docker,git,vscode)](https://skillicons.dev)
 
 
 #### I Develop In
